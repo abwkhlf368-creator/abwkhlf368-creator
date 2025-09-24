@@ -1,4 +1,4 @@
--GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC66<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
