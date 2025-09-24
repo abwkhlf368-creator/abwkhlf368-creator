@@ -20,10 +20,10 @@ Welcome to my page! </br> I'm <b>Abdelrahman Khalaf</b>, a programmer from
 
 <h3>🌱 About Me</h3>
 <p>
-- 👨‍💻 I'm a programmer passionate about building cool projects.<br/>
-- 💡 Currently improving my skills in web development.<br/>
-- 🎯 My goal is to become a strong full-stack developer.<br/>
-- 🌍 Based in <b>Egypt</b>, always open to collaboration and learning.<br/>
+- 👨‍💻 I'm a programmer still learning and improving myself every day.<br/>
+- 💡 Passionate about web development and always exploring new technologies.<br/>
+- 🎯 My goal is to become a skilled Full-Stack developer.<br/>
+- 🌍 Based in <b>Egypt</b>, always open to learning and collaborating with others.<br/>
 </p>
 
 <h3>📫 Where to find me</h3>
@@ -34,4 +34,4 @@ Welcome to my page! </br> I'm <b>Abdelrahman Khalaf</b>, a programmer from
   <a href="https://linkedin.com/in/USERNAME" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>   عايزك تضيف  bootstrap  وعايزك تظبطوا كدا بشكل profishnal 
+</p> 
